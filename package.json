@@ -29,7 +29,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@reduxjs/toolkit": "^1.8.0",
+    "@reduxjs/toolkit": "^1.9.7",
     "@storybook/builder-webpack5": "^6.4.19",
     "@storybook/manager-webpack5": "^6.4.19",
     "@types/webpack-bundle-analyzer": "^4.6.0",
